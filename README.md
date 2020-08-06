@@ -9,18 +9,7 @@
 *****
 
 ### Languages and Tools
-<img height="30px" align="left" alt="HTML5" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/html5-brands.svg" />
-<img height="30px" align="left" alt="CSS3" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/css3-alt-brands.svg" />
-<img height="30px" align="left" alt="Sass" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/sass-brands.svg" />
-<img height="30px" align="left" alt="JavaScript" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/js-square-brands.svg" />
-<img height="30px" align="left" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img height="30px" align="left" align="left" alt="PHP" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/php-brands.svg" />
-<img height="30px" align="left" alt="jQuery" src="https://avatars0.githubusercontent.com/u/70142?s=200&v=4" />
-<img height="30px" align="left" alt="Java" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/java-brands.svg" />
-<img height="30px" align="left" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img height="30px" align="left" alt="Objective-C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-<img height="30px" align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img height="30px" alt="Sketch" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" />
+<img width="814px" align="left" alt="Languages and Tools" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/languages-and-skills.png" />
 
 *****
 
