@@ -9,18 +9,18 @@
 *****
 
 ### Languages and Tools
-<img height="30px" align="left" alt="HTML5" title="HTML" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/html5-brands.svg" />
-<img height="30px" align="left" alt="CSS3" title="CSS" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/css3-alt-brands.svg" />
-<img height="30px" align="left" alt="Sass" title="Sass" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/sass-brands.svg" />
-<img height="30px" align="left" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/js-square-brands.svg" />
-<img height="30px" align="left" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img height="30px" align="left" align="left" alt="PHP" title="PHP" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/php-brands.svg" />
-<img height="30px" align="left" alt="jQuery" title="jQuery" src="https://avatars0.githubusercontent.com/u/70142?s=200&v=4" />
-<img height="30px" align="left" alt="Java" title="Java" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/java-brands.svg" />
-<img height="30px" align="left" alt="C#" title="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img height="30px" align="left" alt="Objective-C" title="Objective-C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-<img height="30px" align="left" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img height="30px" alt="Sketch" title="Sketch" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" />
+<img height="30px" align="left" alt="HTML5" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/html5-brands.svg" />
+<img height="30px" align="left" alt="CSS3" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/css3-alt-brands.svg" />
+<img height="30px" align="left" alt="Sass" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/sass-brands.svg" />
+<img height="30px" align="left" alt="JavaScript" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/js-square-brands.svg" />
+<img height="30px" align="left" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img height="30px" align="left" align="left" alt="PHP" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/php-brands.svg" />
+<img height="30px" align="left" alt="jQuery" src="https://avatars0.githubusercontent.com/u/70142?s=200&v=4" />
+<img height="30px" align="left" alt="Java" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/java-brands.svg" />
+<img height="30px" align="left" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img height="30px" align="left" alt="Objective-C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
+<img height="30px" align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img height="30px" alt="Sketch" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" />
 
 *****
 
