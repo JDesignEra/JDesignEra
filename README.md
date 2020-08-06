@@ -14,3 +14,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JDesignEra&title_color=00bcd4&text_color=fff&bg_color=202020&hide-border=true&layout=compact">
 <img width="357px" align="left" alt="Most Used Languages" title="Mose Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDesignEra&title_color=00bcd4&text_color=fff&bg_color=202020&hide-border=true&layout=compact">
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
