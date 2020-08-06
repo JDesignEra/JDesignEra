@@ -2,9 +2,9 @@
 
 
 ### Social Profiles
-[<img height="25px" align="left" alt="Website" title="JDesignEra.com" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />](https://jdesignera.com)
-[<img height="25px" align="left" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />](https://www.linkedin.com/in/jdesignera)
-[<img height="25px" alt="Email" title="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />](mailto:joel@jdesignera.com)
+[<img height="25px" align="left" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />](https://jdesignera.com)
+[<img height="25px" align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />](https://www.linkedin.com/in/jdesignera)
+[<img height="25px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />](mailto:joel@jdesignera.com)
 
 *****
 
