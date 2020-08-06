@@ -1,10 +1,10 @@
 [![JDesign](https://github.com/JDesignEra/JDesignEra/blob/master/assets/headers/jdesign_header.png?raw=true)](https://jdesignera.com)
 
 
-### Connect With Me
-[<img height="30px" align="left" alt="JDesignEra.com" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />](https://jdesignera.com)
-[<img height="30px" align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />](https://www.linkedin.com/in/jdesignera)
-[<img height="30px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />](mailto:joel@jdesignera.com)
+### Social Profiles
+[<img height="25px" align="left" alt="JDesignEra.com" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />](https://jdesignera.com)
+[<img height="25px" align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />](https://www.linkedin.com/in/jdesignera)
+[<img height="25px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />](mailto:joel@jdesignera.com)
 
 *****
 
