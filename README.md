@@ -24,6 +24,9 @@
 
 *****
 
+<a href="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true?
 <img width="484px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
-
+</a>
+<ahref="https://github-readme-stats.vercel.app/api/top-langs/?username=JDesignEra&title_color=00bcd4&text_color=fff&bg_color=202020&hide-border=true&layout=compact">
 <img width="482px" align="left" alt="Most Used Languages" title="Mose Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDesignEra&title_color=00bcd4&text_color=fff&bg_color=202020&hide-border=true&layout=compact">
+</a>
