@@ -1,5 +1,9 @@
 [![JDesign](https://github.com/JDesignEra/JDesignEra/blob/master/assets/headers/jdesign_header.png?raw=true)](https://jdesignera.com)
 
+### Hi there, I am Joel 👋🏻
+Self-taught **Full-Stack Developer**. And I have a deep passion and curiosity in various programming languages and UI/UX design too.
+
+*****
 
 #### CONNECT WITH ME
 [<img height="25px" align="left" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />](https://jdesignera.com)
