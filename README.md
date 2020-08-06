@@ -9,7 +9,7 @@
 *****
 
 ### Languages and Tools
-<img width="814px" align="left" alt="Languages and Tools" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/languages-and-skills.png" />
+<img width="814px" alt="Languages and Tools" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/languages-and-skills.png" />
 
 *****
 
