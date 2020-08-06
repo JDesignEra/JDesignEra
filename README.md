@@ -8,11 +8,6 @@
 
 *****
 
-### Languages and Tools
-<img width="814px" alt="Languages and Tools" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/languages-and-skills.png" />
-
-*****
-
 <a href="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true">
 <img width="457px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
 </a>
