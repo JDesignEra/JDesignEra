@@ -1,7 +1,5 @@
-## Joel
-It's harder to read codes then to write it.
+[![JDesign](https://github.com/JDesignEra/JDesignEra/blob/master/assets/headers/jdesign_header.png?raw=true)](https://jdesignera.com)
 
-*****
 
 ### Connect With Me
 [<img height="30px" align="left" alt="JDesignEra.com" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />](https://jdesignera.com)
