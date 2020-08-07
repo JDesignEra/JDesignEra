@@ -4,13 +4,6 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
-#### CONNECT WITH ME
-[<img height="25px" align="left" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />](https://jdesignera.com)
-[<img height="25px" align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />](https://www.linkedin.com/in/jdesignera)
-[<img height="25px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />](mailto:joel@jdesignera.com)
-
-*****
-
 #### PROFILE STATS
 <a href="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true">
 <img width="457px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
@@ -28,5 +21,23 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+*****
+
+<p align="center">
+  <b>CONNECT WITH ME</b>
+  
+  <p align="center">
+  <a href="https://jdesignera.com">
+    <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/jdesignera">
+    <img height="20px" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />
+  </a>
+  <a href="mailto:joel@jdesignera.com">
+    <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
+  </a>
+  </p>
+</p>
 
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
