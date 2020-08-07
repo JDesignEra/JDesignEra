@@ -46,4 +46,8 @@ No Activity tracked this Week
   </a>
 </p>
 
+<p align="center">
+  <img alt="Vistors Counter" src="https://visitor-badge.laobi.icu/badge?page_id=jdesignera.visitor-badge" />
+</p>
+
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
