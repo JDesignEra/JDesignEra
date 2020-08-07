@@ -11,8 +11,6 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
-#### WEEKLY DEVELOPMENT BREAKDOWN
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
