@@ -15,7 +15,11 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Swift    4 hrs 12 mins   ███████████████████░░░░░░   76.22 % 
+Cocoa    46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+C#       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Kotlin   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Groovy   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 <!--END_SECTION:waka-->
 
