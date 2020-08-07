@@ -11,6 +11,8 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
+#### DATA CRUNCH
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
 
@@ -123,10 +125,6 @@ TypeScript   2 repos        ███░░░░░░░░░░░░░░�
   <a href="https://jdesignera.com">
     <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
   </a>
-</p>
-
-<p align="center">
-  <img alt="Vistors Counter" src="https://visitor-badge.laobi.icu/badge?page_id=jdesignera.visitor-badge" />
 </p>
 
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
