@@ -107,3 +107,5 @@ googlemap                2 mins              ░░░░░░░░░░░�
 </p>
 
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
+
+[![Spotify](https://jdesignera.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tgm.joel)
