@@ -25,25 +25,21 @@ No Activity tracked this Week
 *****
 
 <p align="center">
-  <b>CONNECT WITH ME</b>
-  
-  <p align="center">
-    <a href="https://jdesignera.com">
-      <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/jdesignera">
-      <img height="20px" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />
-    </a>
-    <a href="mailto:joel@jdesignera.com">
-      <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://jdesignera.com">
-      <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
-    </a>
-  </p>
+  <a href="https://jdesignera.com">
+    <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/jdesignera">
+    <img height="20px" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />
+  </a>
+  <a href="mailto:joel@jdesignera.com">
+    <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://jdesignera.com">
+    <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
+  </a>
 </p>
 
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
