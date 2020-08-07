@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          USERNAME: JDesignEra
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          USER: JDesignEra
