@@ -41,7 +41,7 @@ No Activity tracked this Week
   
   <p align="center">
     <a href="https://jdesignera.com">
-      <img width="150px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
+      <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
     </a>
   </p>
 </p>
