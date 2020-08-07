@@ -1,4 +1,4 @@
-[![JDesign](https://github.com/JDesignEra/JDesignEra/blob/master/assets/headers/jdesign_header.png?raw=true)](https://jdesignera.com)
+[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
 
 ### Hi there, I am Joel 👋🏻
 Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in various programming languages and UI/UX design.
@@ -29,3 +29,5 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
