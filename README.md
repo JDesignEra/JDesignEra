@@ -8,7 +8,7 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
  <b>PROFILE STATS</b>
  
  <p align="center">
-  <img width="467px" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
+  <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
  
   <img width="367px" alt="Most Used Languages" title="Mose Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDesignEra&title_color=00bcd4&text_color=fff&bg_color=202020&hide-border=true&layout=compact">
  </p>
