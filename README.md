@@ -121,10 +121,10 @@ googlemap                2 mins              ░░░░░░░░░░░�
 </p>
 
 
- <p align="center">
+ <span align="center">
   <a href="https://jdesignera.com">
     <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
   </a>
-</p>
+</span>
 
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
