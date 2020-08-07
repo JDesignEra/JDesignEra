@@ -4,80 +4,19 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
-### PROFILE STATS
+#### PROFILE STATS
 <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
 
 <img width="367px" alt="Most Used Languages" title="Mose Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDesignEra&title_color=00bcd4&text_color=fff&bg_color=202020&hide-border=true&layout=compact">
 
 *****
 
-### DATA CRUNCH
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.6%20million%20Lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 252 Contributions in year 2020
- > 
-> 📦 Used 410.4 kB in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 3 Owned Private Repositories 
-
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
-🌆 Daytime    93 commits     ████████░░░░░░░░░░░░░░░░░   31.63% 
-🌃 Evening    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.01% 
-🌙 Night      117 commits    ██████████░░░░░░░░░░░░░░░   39.8%
-
-```
-📅 **I'm Most Productive on Fridays** 
-
-```text
-Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Wednesday    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Friday       104 commits    ████████░░░░░░░░░░░░░░░░░   35.37% 
-Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
-Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-💬 Languages: 
-Swift                    4 hrs 12 mins       ███████████████████░░░░░░   76.22% 
-Cocoa                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
-C#                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-Kotlin                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-Groovy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
-
-🐱‍💻 Projects: 
-T4_NewsApp               4 hrs 58 mins       ██████████████████████░░░   90.25% 
-MovieViewer_Basic_Student14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-tripsia                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-diskOptimization         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-googlemap                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
-
-```
-
-**Timeline**
-
-![Chart not found](https://github.com/JDesignEra/JDesignEra/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
+<details>
+ <summary><b>DATA CRUNCH</b></summary>
+ 
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+</details>
 
 *****
 
