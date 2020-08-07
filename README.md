@@ -86,15 +86,15 @@ googlemap                2 mins              ░░░░░░░░░░░�
 
 *****
 
-<p align="center">
- <b>NOW PLAYING</b>
+<details open>
+ <summary><b>NOW PLAYING</b></summary>
  
  <p align="center">
   <a href="https://open.spotify.com/user/tgm.joel">
    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=tgm.joel&cover_image=true" />
   </a>
  </p>
-</p>
+</details>
 
 *****
 
