@@ -22,15 +22,15 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
  </summary>
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-383-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.6%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 242 Contributions in year 2020
+> 🏆 287 Contributions in year 2020
  > 
-> 📦 Used 410.4 kB in GitHub's Storage 
+> 📦 Used 410.5 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -41,10 +41,10 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
+🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
 🌆 Daytime    93 commits     ████████░░░░░░░░░░░░░░░░░   31.63% 
-🌃 Evening    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-🌙 Night      121 commits    ██████████░░░░░░░░░░░░░░░   41.16%
+🌃 Evening    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+🌙 Night      127 commits    ██████████░░░░░░░░░░░░░░░   43.2%
 
 ```
 📅 **I'm Most Productive on Fridays** 
@@ -53,9 +53,9 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
 Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
 Wednesday    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-Friday       104 commits    ████████░░░░░░░░░░░░░░░░░   35.37% 
-Saturday     36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Friday       87 commits     ███████░░░░░░░░░░░░░░░░░░   29.59% 
+Saturday     66 commits     █████░░░░░░░░░░░░░░░░░░░░   22.45% 
 Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
