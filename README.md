@@ -38,12 +38,12 @@ No Activity tracked this Week
       <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
     </a>
   </p>
+</p>
 
-  <p align="center">
-    <a href="https://jdesignera.com">
-      <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
-    </a>
-  </p>
+ <p align="center">
+  <a href="https://jdesignera.com">
+    <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
+  </a>
 </p>
 
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
