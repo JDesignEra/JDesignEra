@@ -16,7 +16,7 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
-<details>
+<details open>
  <summary><b>DATA CRUNCH</b></summary>
  
  <!--START_SECTION:waka-->
