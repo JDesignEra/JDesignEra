@@ -84,6 +84,14 @@ googlemap                2 mins              ░░░░░░░░░░░�
 *****
 
 <p align="center">
+ <a href="https://open.spotify.com/user/tgm.joel">
+  <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=tgm.joel&cover_image=true" />
+ </a>
+</p>
+
+*****
+
+<p align="center">
   <b>CONNECT WITH ME</b>
   
   <p align="center">
@@ -107,5 +115,3 @@ googlemap                2 mins              ░░░░░░░░░░░�
 </p>
 
 ![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
-
-[![Spotify](https://jdesignera.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tgm.joel)
