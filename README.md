@@ -5,7 +5,9 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 *****
 
 <details open>
- <summary><b>PROFILE STATS</b></summary>
+ <summary>
+  <b>📊 PROFILE STATS (CLICK TO OPEN)</b>
+ </summary>
  
  <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
  
@@ -15,7 +17,9 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 *****
 
 <details open>
- <summary><b>DATA CRUNCH</b></summary>
+ <summary>
+  <b>📈 DATA CRUNCH (CLICK TO OPEN)</b>
+ </summary>
  
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
@@ -87,7 +91,9 @@ googlemap                2 mins              ░░░░░░░░░░░�
 *****
 
 <details open>
- <summary><b>NOW PLAYING</b></summary>
+ <summary>
+  <b>🎶 NOW PLAYING (CLICK TO OPEN)</b>
+ </summary>
  
  <p align="center">
   <a href="https://open.spotify.com/user/tgm.joel">
