@@ -4,8 +4,8 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
-<details>
- <summary open>
+<details open>
+ <summary>
   <b>📊 PROFILE STATS (CLICK TO COLLAPSE)</b>
  </summary>
  
