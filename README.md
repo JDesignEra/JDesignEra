@@ -1,6 +1,5 @@
 [![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
 
-### Hi there, I am Joel 👋🏻
 Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in various programming languages and UI/UX design.
 
 *****
