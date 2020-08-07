@@ -4,9 +4,9 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
-<details open>
+<details>
  <summary>
-  <b>📊 PROFILE STATS (CLICK TO OPEN)</b>
+  <b>📊 PROFILE STATS (CLICK TO COLLASPE / UNCOLLAPSE)</b>
  </summary>
  
  <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=202020&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
@@ -16,9 +16,9 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
-<details open>
+<details>
  <summary>
-  <b>📈 DATA CRUNCH (CLICK TO OPEN)</b>
+  <b>📈 DATA CRUNCH (CLICK TO COLLASPE / UNCOLLAPSE)</b>
  </summary>
  
  <!--START_SECTION:waka-->
@@ -90,9 +90,9 @@ googlemap                2 mins              ░░░░░░░░░░░�
 
 *****
 
-<details open>
+<details>
  <summary>
-  <b>🎶 NOW PLAYING (CLICK TO OPEN)</b>
+  <b>🎶 NOW PLAYING (CLICK TO COLLASPE / UNCOLLAPSE)</b>
  </summary>
  
  <p align="center">
