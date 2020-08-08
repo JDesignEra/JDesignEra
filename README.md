@@ -111,15 +111,12 @@ googlemap                2 mins              ░░░░░░░░░░░�
     <a href="https://jdesignera.com">
       <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
     </a>
-    
     <a href="https://discordapp.com/users/156834654140235776">
      <img height="20px" alt="Discord" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/discord-brands.svg" />
     </a>
-    
     <a href="https://www.linkedin.com/in/jdesignera">
       <img height="20px" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />
     </a>
-    
     <a href="mailto:joel@jdesignera.com">
       <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
     </a>
