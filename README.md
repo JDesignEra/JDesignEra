@@ -121,6 +121,11 @@ googlemap                2 mins              ░░░░░░░░░░░�
       <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
     </a>
   </p>
+  
+  <p align="center">
+   <a href="https://www.buymeacoffee.com/JDesignEra">
+    <img alt="Buy Me A Coffee" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/buttons/buy-me-a-coffee.png" />
+   </a>
 </p>
 
 
