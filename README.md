@@ -96,7 +96,7 @@ tripsia                  12 mins             ░░░░░░░░░░░�
  </summary>
  
  <p align="center">
-  <a href="https://open.spotify.com/user/tgm.joel">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=tgm.joel&redirect=true">
    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=tgm.joel&cover_image=true" />
   </a>
  </p>
