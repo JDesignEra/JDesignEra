@@ -6,7 +6,7 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 <details open>
  <summary>
-  <b>📊 GITHUB PROFILE STATS (CLICK TO COLLAPSE)</b>
+  <b>📊 GITHUB STATS (CLICK TO COLLAPSE)</b>
  </summary>
  
  <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=25,005a65,082a2d&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
