@@ -115,11 +115,14 @@ tripsia                  12 mins             ░░░░░░░░░░░�
   <b>CONNECT WITH ME</b>
   
   <p align="center">
-    <a href="https://jdesignera.com">
+  	<a href="https://jdesignera.com">
       <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
     </a>
     <a href="https://discordapp.com/users/156834654140235776">
      <img height="20px" alt="Discord" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/discord-brands.svg" />
+    </a>
+    <a href="https://sourcerer.io/jdesignera">
+      <img height="20px" alt="Sourcerer.io" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/sourcerer_io.svg">
     </a>
     <a href="https://www.linkedin.com/in/jdesignera">
       <img height="20px" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />
