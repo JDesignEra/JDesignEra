@@ -9,9 +9,9 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
   <b>📊 GITHUB STATS (CLICK TO COLLAPSE)</b>
  </summary>
  
- <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&title_color=00bcd4&text_color=fff&icon_color=00bcd4&bg_color=25,005a65,082a2d&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+ <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&title_color=99bdc1&text_color=fff&icon_color=00bcd4&bg_color=25,005a65,082a2d&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
  
- <img width="367px" alt="Most Used Languages" title="Mose Used Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/top-langs/?username=JDesignEra&title_color=00bcd4&text_color=fff&bg_color=25,005a65,082a2d&hide-border=true&layout=compact">
+ <img width="367px" alt="Most Used Languages" title="Mose Used Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/top-langs/?username=JDesignEra&title_color=99bdc1&text_color=fff&bg_color=25,005a65,082a2d&hide-border=true&layout=compact">
 </details>
 
 *****
