@@ -9,6 +9,77 @@ Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in var
 
 *****
 
+<details>
+  <summary>
+    <b>💻 LANGUAGES & TOOLS (CLICK TO COLLAPSE)</b>
+    <table>
+      <tr>
+        <th colspan="2">Languages</th>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=fff&logo=html5" />
+          <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=fff&logo=css3" />
+          <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logoColor=fff&logo=sass" />
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=fff&logo=javascript" />
+          <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logoColor=fff&logo=php" />
+          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logoColor=fff&logo=java" />
+          <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logoColor=fff&logo=c-sharp" />
+          <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-0070c5?style=for-the-badge&logoColor=fff&logo=apple" />
+          <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logoColor=fff&logo=swift" />
+          <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=fff&logo=python" />
+          <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=fff&logo=typescript" />
+        </td>
+      </tr>
+      <tr>
+        <th colspan="2">Frameworks / Libraries</th>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logoColor=fff&logo=bootstrap" />
+          <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logoColor=fff&logo=jquery" />
+          <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logoColor=fff&logo=ionic" />
+          <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logoColor=fff&logo=angular" />
+          <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logoColor=fff&logo=flask" />
+          <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logoColor=fff&logo=symfony" />
+        </td>
+      </tr>
+      <tr>
+        <th>Databases</th>
+        <th>Runtime</th>
+      </tr>
+      <tr>
+        <td align="center">
+          <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logoColor=fff&logo=sqlite" />
+          <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logoColor=fff&logo=mysql" />
+          <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logoColor=fff&logo=firebase" />
+        </td>
+        <td align="center">
+          <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-39933?style=for-the-badge&logoColor=fff&logo=node.js" />
+        </td>
+      </tr>
+      <tr>
+        <th colspan="2">Tools</th>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logoColor=fff&logo=visual-studio-code" />
+          <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logoColor=fff&logo=visual-studio" />
+          <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logoColor=fff&logo=xcode" />
+          <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logoColor=fff&logo=pycharm" />
+          <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logoColor=fff&logo=android-studio" />
+          <img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logoColor=fff&logo=eclipse-ide" />
+          <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=fff&logo=adobe-photoshop" />
+          <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logoColor=fff&logo=adobe-illustrator" />
+          <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logoColor=fff&logo=sketch" />
+        </td>
+      </tr>
+    </table>
+  </summary>
+</details>
+
+*****
+
 <details open>
  <summary>
   <b>📊 GITHUB STATS (CLICK TO COLLAPSE)</b>
