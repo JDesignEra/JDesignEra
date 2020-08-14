@@ -1,4 +1,4 @@
-[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
+a[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
 
 Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in various programming languages and UI/UX design.
 
@@ -137,12 +137,8 @@ tripsia                  12 mins             ░░░░░░░░░░░�
     <img alt="Buy Me A Coffee" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/buttons/buy-me-a-coffee.png" />
    </a>
 </p>
-
-
- <p align="center">
-  <a href="https://jdesignera.com">
-    <img width="100px" alt="JDesign" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/logos/logo-full.png" />
-  </a>
 </p>
 
-![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/bottom-wave.png)
+<a href="https://jdesignera.com">
+  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/footers/bottom_wave_logo_footer.png" />
+</a>
