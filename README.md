@@ -127,16 +127,19 @@ tripsia                  12 mins             ░░░░░░░░░░░�
       </td>
     </tr>
     <tr>
-      <th colspan="2">Frameworks / Libraries</th>
+      <th>Frameworks</th>
+      <th>Libraries</th>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center">
         <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logoColor=fff&logo=bootstrap" />
-        <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logoColor=fff&logo=jquery" />
         <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logoColor=fff&logo=ionic" />
         <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logoColor=fff&logo=angular" />
         <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logoColor=fff&logo=flask" />
         <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logoColor=fff&logo=symfony" />
+      </td>
+      <td align="center">
+        <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logoColor=fff&logo=jquery" />
       </td>
     </tr>
     <tr>
