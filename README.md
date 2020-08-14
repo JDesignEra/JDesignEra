@@ -212,12 +212,6 @@ tripsia                  12 mins             ░░░░░░░░░░░�
       <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
     </a>
   </p>
-
-  <p align="center">
-    <a href="https://jdesignera.com">
-      <img alt="Website" src="https://img.shields.io/website?down_color=DC3545&down_message=Offline&label=JDesignEra.com&logo=google-chrome&logoColor=fff&style=flat-square&up_color=0097A7&up_message=Online&url=https%3A%2F%2Fjdesignera.com">
-    </a>
-  </p>
   
   <p align="center">
    <a href="https://www.buymeacoffee.com/JDesignEra">
