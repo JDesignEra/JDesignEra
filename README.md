@@ -1,6 +1,10 @@
 [![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
 
-Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in various programming languages and UI/UX design.
+<p align="center">
+  <img src="https://img.shields.io/badge/Pronoun-He%20%2F%20Him-00bcd4?style=flat-square" />
+ </p>
+
+Self-taught ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-00bcd4?style=flat-square). I have a deep passion and curiosity in various programming languages and UI/UX design.
 
 *****
 
