@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/Full--Stack-Developer-0097A7?style=flat-square" />
  </p>
 
-Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in various programming languages and UI/UX design.
+<p align="center">
+  Self-taught <b>Full-Stack Developer</b>. I have a deep passion and curiosity in various programming languages and UI/UX design.
+</p>
 
 *****
 
