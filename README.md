@@ -1,4 +1,4 @@
-a[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
+[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
 
 Self-taught **Full-Stack Developer**. I have a deep passion and curiosity in various programming languages and UI/UX design.
 
