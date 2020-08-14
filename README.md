@@ -170,6 +170,7 @@ tripsia                  12 mins             ░░░░░░░░░░░�
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=fff&logo=adobe-photoshop" />
         <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logoColor=fff&logo=adobe-illustrator" />
         <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logoColor=fff&logo=sketch" />
+        <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logoColor=fff&logo=gitkraken" />
       </td>
     </tr>
   </table>
