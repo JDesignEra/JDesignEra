@@ -31,21 +31,21 @@
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-437-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.6%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-494062%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 370 Contributions in year 2020
+> 🏆 370 Contributions in the year 2020
  > 
-> 📦 Used 418.3 kB in GitHub's Storage 
+> 📦 418.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 19 Public repositories
  > 
-> 🔑 3 Owned Private Repositories 
+> 🔑 3 Private repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    62 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
@@ -54,7 +54,7 @@
 🌙 Night      119 commits    █████████░░░░░░░░░░░░░░░░   37.19%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
@@ -68,17 +68,17 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 C                        32 hrs 2 mins       ███████████████████░░░░░░   77.34% 
 Swift                    5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
 CSS                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
 Cocoa                    47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
 Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  33 hrs 19 mins      ████████████████████░░░░░   80.43% 
 Xcode                    6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
 Notepad++                1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
