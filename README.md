@@ -112,7 +112,7 @@ qmk_firmware             0 secs              ░░░░░░░░░░░�
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=fff&logo=html5" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=fff&logo=css3" />
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logoColor=fff&logo=sass" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=fff&logo=javascript" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-c4b018?style=for-the-badge&logoColor=fff&logo=javascript" />
         <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logoColor=fff&logo=php" />
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logoColor=fff&logo=java" />
         <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logoColor=fff&logo=c-sharp" />
@@ -133,6 +133,7 @@ qmk_firmware             0 secs              ░░░░░░░░░░░�
         <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logoColor=fff&logo=angular" />
         <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logoColor=fff&logo=flask" />
         <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logoColor=fff&logo=symfony" />
+        <img alt="React" src="https://img.shields.io/badge/-React-4eadc7?style=for-the-badge&logoColor=fff&logo=react" />
       </td>
       <td align="center">
         <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logoColor=fff&logo=jquery" />
@@ -146,10 +147,10 @@ qmk_firmware             0 secs              ░░░░░░░░░░░�
       <td align="center">
         <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logoColor=fff&logo=sqlite" />
         <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logoColor=fff&logo=mysql" />
-        <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logoColor=fff&logo=firebase" />
+        <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-cca121?style=for-the-badge&logoColor=fff&logo=firebase" />
       </td>
       <td align="center">
-        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-39933?style=for-the-badge&logoColor=fff&logo=node.js" />
+        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-038c2e?style=for-the-badge&logoColor=fff&logo=node.js" />
       </td>
     </tr>
     <tr>
@@ -161,11 +162,11 @@ qmk_firmware             0 secs              ░░░░░░░░░░░�
         <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logoColor=fff&logo=visual-studio" />
         <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logoColor=fff&logo=xcode" />
         <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logoColor=fff&logo=pycharm" />
-        <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logoColor=fff&logo=android-studio" />
+        <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-2fa866?style=for-the-badge&logoColor=fff&logo=android-studio" />
         <img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logoColor=fff&logo=eclipse-ide" />
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=fff&logo=adobe-photoshop" />
         <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logoColor=fff&logo=adobe-illustrator" />
-        <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logoColor=fff&logo=sketch" />
+        <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-dea300?style=for-the-badge&logoColor=fff&logo=sketch" />
         <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logoColor=fff&logo=gitkraken" />
       </td>
     </tr>
