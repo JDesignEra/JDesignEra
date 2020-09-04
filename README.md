@@ -192,6 +192,9 @@ qmk_firmware             14 mins             ░░░░░░░░░░░�
   
   <p align="center">
     <a href="https://discordapp.com/users/156834654140235776">
+     <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
+    </a>
+    <a href="https://discordapp.com/users/156834654140235776">
      <img height="20px" alt="Discord" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/discord-brands.svg" />
     </a>
     <a href="https://www.linkedin.com/in/jdesignera">
