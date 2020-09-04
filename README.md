@@ -131,6 +131,7 @@ qmk_firmware             14 mins             ░░░░░░░░░░░�
         <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logoColor=fff&logo=flask" />
         <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logoColor=fff&logo=symfony" />
         <img alt="React" src="https://img.shields.io/badge/-React-4eadc7?style=for-the-badge&logoColor=fff&logo=react" />
+        <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logoColor=fff&logo=next.js" />
       </td>
       <td align="center">
         <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logoColor=fff&logo=jquery" />
