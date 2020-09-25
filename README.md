@@ -212,7 +212,7 @@ MyMenu                   5 mins              ░░░░░░░░░░░�
   
   <p align="center">
    <a href="https://www.buymeacoffee.com/JDesignEra">
-    <img alt="Buy Me A Coffee" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/buttons/bmc_coffee.gif" />
+    <img width="200px" alt="Buy Me A Coffee" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/buttons/bmc_coffee.gif" />
    </a>
 </p>
 </p>
