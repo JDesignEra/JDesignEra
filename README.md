@@ -29,41 +29,39 @@
  </summary>
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 379 Contributions in the Year 2020
+> 🏆 514 Contributions in the Year 2020
  > 
-> 📦 418.5 kB Used in Github's Storage 
+> 📦 429.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories
+> 📜 18 Public Repositories
  > 
-> 🔑 3 Private Repositories 
+> 🔑 5 Private Repositories 
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    64 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
-🌆 Daytime    70 commits     █████░░░░░░░░░░░░░░░░░░░░   21.41% 
-🌃 Evening    73 commits     █████░░░░░░░░░░░░░░░░░░░░   22.32% 
-🌙 Night      120 commits    █████████░░░░░░░░░░░░░░░░   36.7%
+🌞 Morning    101 commits    █████░░░░░░░░░░░░░░░░░░░░   22.44% 
+🌆 Daytime    87 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
+🌃 Evening    105 commits    █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+🌙 Night      157 commits    ████████░░░░░░░░░░░░░░░░░   34.89%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-Tuesday      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Wednesday    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-Thursday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
-Friday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-Saturday     81 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
-Sunday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
+Monday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Wednesday    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
+Thursday     45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Saturday     137 commits    ███████░░░░░░░░░░░░░░░░░░   30.44% 
+Sunday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
 
 ```
 
@@ -72,22 +70,23 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Swift                    4 hrs 20 mins       ██████████████░░░░░░░░░░░   55.98% 
-CSS                      2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.83% 
-Cocoa                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-C                        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58% 
-Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+Kotlin                   19 hrs 28 mins      ██████████████░░░░░░░░░░░   59.24% 
+JavaScript               6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59% 
+XML                      4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Groovy                   2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45%
 
 🔥 Editors: 
-Xcode                    4 hrs 49 mins       ███████████████░░░░░░░░░░   62.23% 
-VS Code                  2 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.77%
+Android Studio           25 hrs 56 mins      ███████████████████░░░░░░   78.93% 
+VS Code                  6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77% 
+Notepad++                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 
 🐱‍💻 Projects: 
-T4_NewsApp               4 hrs 49 mins       ███████████████░░░░░░░░░░   62.23% 
-themes                   2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.83% 
-qmk_firmware             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-JDesignEra               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Tellago                  25 hrs 20 mins      ███████████████████░░░░░░   77.08% 
+jdesignera-website       6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76% 
+Unknown Project          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+MovieViewer_Basic_Student15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+MyMenu                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 ```
 
@@ -115,7 +114,7 @@ JDesignEra               0 secs              ░░░░░░░░░░░�
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=fff&logo=html5" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=fff&logo=css3" />
         <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logoColor=fff&logo=sass" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=fff&logo=javascript" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-c4b018?style=for-the-badge&logoColor=fff&logo=javascript" />
         <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logoColor=fff&logo=php" />
         <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logoColor=fff&logo=java" />
         <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logoColor=fff&logo=c-sharp" />
@@ -136,6 +135,8 @@ JDesignEra               0 secs              ░░░░░░░░░░░�
         <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logoColor=fff&logo=angular" />
         <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logoColor=fff&logo=flask" />
         <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logoColor=fff&logo=symfony" />
+        <img alt="React" src="https://img.shields.io/badge/-React-4eadc7?style=for-the-badge&logoColor=fff&logo=react" />
+        <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logoColor=fff&logo=next.js" />
       </td>
       <td align="center">
         <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logoColor=fff&logo=jquery" />
@@ -149,10 +150,10 @@ JDesignEra               0 secs              ░░░░░░░░░░░�
       <td align="center">
         <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logoColor=fff&logo=sqlite" />
         <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logoColor=fff&logo=mysql" />
-        <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logoColor=fff&logo=firebase" />
+        <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-cca121?style=for-the-badge&logoColor=fff&logo=firebase" />
       </td>
       <td align="center">
-        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-39933?style=for-the-badge&logoColor=fff&logo=node.js" />
+        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-038c2e?style=for-the-badge&logoColor=fff&logo=node.js" />
       </td>
     </tr>
     <tr>
@@ -164,11 +165,11 @@ JDesignEra               0 secs              ░░░░░░░░░░░�
         <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logoColor=fff&logo=visual-studio" />
         <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logoColor=fff&logo=xcode" />
         <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logoColor=fff&logo=pycharm" />
-        <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logoColor=fff&logo=android-studio" />
+        <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-2fa866?style=for-the-badge&logoColor=fff&logo=android-studio" />
         <img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logoColor=fff&logo=eclipse-ide" />
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=fff&logo=adobe-photoshop" />
         <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logoColor=fff&logo=adobe-illustrator" />
-        <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logoColor=fff&logo=sketch" />
+        <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-dea300?style=for-the-badge&logoColor=fff&logo=sketch" />
         <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=for-the-badge&logoColor=fff&logo=gitkraken" />
       </td>
     </tr>
@@ -195,8 +196,8 @@ JDesignEra               0 secs              ░░░░░░░░░░░�
   <b>CONNECT WITH ME</b>
   
   <p align="center">
-  	<a href="https://jdesignera.com">
-      <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
+    <a href="https://jdesignera.com">
+     <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
     </a>
     <a href="https://discordapp.com/users/156834654140235776">
      <img height="20px" alt="Discord" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/discord-brands.svg" />
