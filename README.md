@@ -39,9 +39,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories
+> 📜 18 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 5 Private Repositories  
 
 **I'm a Night 🦉** 
 
