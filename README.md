@@ -29,13 +29,13 @@
  </summary>
  
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-609034%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-609277%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 102 Contributions in the Year 2021
+> 🏆 104 Contributions in the Year 2021
  > 
-> 📦 477.4 kB Used in Github's Storage 
+> 📦 477.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
