@@ -29,19 +29,19 @@
  </summary>
  
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-612189%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-616976%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 114 Contributions in the Year 2021
+> 🏆 127 Contributions in the Year 2021
  > 
-> 📦 477.9 kB Used in Github's Storage 
+> 📦 478.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
