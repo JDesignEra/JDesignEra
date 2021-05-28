@@ -214,5 +214,5 @@ teg-email                2 mins              ░░░░░░░░░░░�
 </p>
 
 <a href="https://jdesignera.com">
-  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/footers/bottom_wave_logo_footer_v2.png" />
+  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/8715c7f5a24b68e00b1da0a69ae2f450ad671e2f/assets/footers/bottom_wave_logo_footer_v2.png" />
 </a>
