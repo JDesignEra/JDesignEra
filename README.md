@@ -1,4 +1,4 @@
-[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header.png)](https://jdesignera.com)
+[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header-v2.png)](https://jdesignera.com)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pronoun-He%20%2F%20Him-0097A7?style=flat-square" />
@@ -16,9 +16,11 @@
   <b>📊 GITHUB STATS (CLICK TO COLLAPSE)</b>
  </summary>
  
- <img width="467px" align="left" alt="Joel's Github Stats" title="Joel's Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&title_color=99bdc1&text_color=fff&icon_color=00bcd4&bg_color=25,005a65,082a2d&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+ <img height="180px" align="left" alt="Github Stats" title="Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&custom_title=GitHub Stats&title_color=88C0D0&text_color=ECEFF4&icon_color=00bcd4&bg_color=25,4C566A,2E3440&show_icons=true&border_radius=8&hide_border=true&count_private=true&include_all_commits=true&count_private=true" />
  
- <img width="367px" alt="Most Used Languages" title="Mose Used Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/top-langs/?username=JDesignEra&title_color=99bdc1&text_color=fff&bg_color=25,005a65,082a2d&hide-border=true&layout=compact">
+ <img height="180px" alt="Most Used Languages" title="Most Used Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/top-langs/?username=JDesignEra&custom_title=Most Used Language&title_color=88C0D0&text_color=ECEFF4&bg_color=25,4C566A,2E3440&&border_radius=8&hide-border=true&layout=compact">
+ 
+ <img height="180px" alt="Most Used Languages" title="Last 7 Days Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/wakatime?username=JDesignEra&custom_title=Last 7 Days Languages&title_color=88C0D0&text_color=ECEFF4&bg_color=25,4C566A,2E3440&&border_radius=8&hide-border=true&layout=compact">
 </details>
 
 *****
@@ -212,5 +214,5 @@ teg-email                2 mins              ░░░░░░░░░░░�
 </p>
 
 <a href="https://jdesignera.com">
-  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/footers/bottom_wave_logo_footer.png" />
+  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/footers/bottom_wave_logo_footer_v2.png" />
 </a>
