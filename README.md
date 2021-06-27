@@ -95,7 +95,7 @@ Unknown Project          20 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/06/2021
+ Last Updated on 27/06/2021
 <!--END_SECTION:waka-->
 </details>
 
