@@ -72,13 +72,15 @@ Sunday       67 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     17 mins             ████████████████████████░   98.82% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          17 mins             ████████████████████████░   98.82% 
+qmk_firmware             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 ```
 
@@ -87,7 +89,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/07/2021
+ Last Updated on 28/07/2021
 <!--END_SECTION:waka-->
 </details>
 
