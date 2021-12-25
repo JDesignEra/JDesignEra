@@ -37,7 +37,7 @@
 
 > 🏆 533 Contributions in the Year 2021
  > 
-> 📦 513.2 kB Used in GitHub's Storage 
+> 📦 513.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -87,7 +87,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
 </details>
 
