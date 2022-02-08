@@ -72,13 +72,14 @@ Sunday       65 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      38 mins             ████████████████████████░   95.5% 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.5%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          39 mins             █████████████████████████   100.0%
 
 ```
 
@@ -87,7 +88,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 16:07:47 UTC
+ Last Updated on 08/02/2022 16:07:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
