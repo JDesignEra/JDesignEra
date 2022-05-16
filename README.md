@@ -74,13 +74,13 @@ Sunday       47 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,7 +89,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/05/2022 16:07:16 UTC
+ Last Updated on 16/05/2022 16:09:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
