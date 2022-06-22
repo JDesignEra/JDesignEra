@@ -6,7 +6,7 @@
  </p>
 
 <p align="center">
-  Self-taught <b>Full-Stack Developer</b>. I have a deep passion and curiosity in various programming languages and UI/UX design.
+  I have a deep passion and curiosity in various programming languages and UI/UX design.
 </p>
 
 *****
