@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pronoun-He%20%2F%20Him-0097A7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-0097A7?style=flat-square" />
  </p>
 
 <p align="center">
