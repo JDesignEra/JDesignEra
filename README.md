@@ -27,15 +27,11 @@
  </summary>
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-533%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 25 Contributions in the Year 2022
  > 
 > 📦 510.5 kB Used in GitHub's Storage 
  > 
@@ -48,16 +44,16 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    66 commits     ████████░░░░░░░░░░░░░░░░░   33.0% 
-🌆 Daytime    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌃 Evening    59 commits     ███████░░░░░░░░░░░░░░░░░░   29.5% 
-🌙 Night      50 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+🌞 Morning    66 commits     ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.0% 
+🌆 Daytime    25 commits     ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.5% 
+🌃 Evening    59 commits     ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.5% 
+🌙 Night      50 commits     ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.0%
 
 ```
 
 
 
- Last Updated on 22/07/2022 16:08:45 UTC
+ Last Updated on 23/07/2022 16:48:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
