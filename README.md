@@ -31,9 +31,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 78 Contributions in the Year 2022
+> 🏆 82 Contributions in the Year 2022
  > 
-> 📦 519.7 kB Used in GitHub's Storage 
+> 📦 519.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -41,8 +41,19 @@
  > 
 > 🔑 5 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 04/09/2022 16:03:53 UTC
+```text
+🌞 Morning    79 commits     ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.51% 
+🌆 Daytime    36 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.26% 
+🌃 Evening    114 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.48% 
+🌙 Night      122 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.76%
+
+```
+
+
+
+ Last Updated on 05/09/2022 16:04:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
