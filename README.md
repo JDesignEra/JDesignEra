@@ -158,7 +158,7 @@
     <a href="https://www.linkedin.com/in/jdesignera">
       <img height="20px" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />
     </a>
-    <a href="mailto:joel@jdesignera.net">
+    <a href="mailto:jdesignera.mail@gmail.com">
       <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
     </a>
   </p>
