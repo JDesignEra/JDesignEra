@@ -4,10 +4,6 @@
   <img src="https://img.shields.io/badge/Pronoun-He%20%2F%20Him-0097A7?style=flat-square" />
  </p>
 
-<p align="center">
-  I have a deep passion and curiosity in various programming languages and UI/UX design.
-</p>
-
 *****
 
 <details open>
@@ -15,9 +11,7 @@
   <b>📊 GITHUB STATS (CLICK TO COLLAPSE)</b>
  </summary>
  
- <img height="178px" align="left" alt="Github Stats" title="Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&custom_title=GitHub%20Stats&title_color=88C0D0&text_color=ECEFF4&icon_color=00bcd4&bg_color=25,4C566A,2E3440&show_icons=true&border_radius=8&hide_border=true&count_private=true&include_all_commits=true&count_private=true" />
- 
- <img height="179px" alt="Most Used Languages" title="Most Used Languages" src="https://github-readme-stats-jdesignera.vercel.app/api/top-langs/?username=JDesignEra&custom_title=Most%20Used%20Language&title_color=88C0D0&text_color=ECEFF4&bg_color=25,4C566A,2E3440&&border_radius=8&hide-border=true&layout=compact">
+ <img height="178px" align="center" alt="Github Stats" title="Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&custom_title=GitHub%20Stats&title_color=88C0D0&text_color=ECEFF4&icon_color=00bcd4&bg_color=25,4C566A,2E3440&show_icons=true&border_radius=8&hide_border=true&count_private=true&include_all_commits=true&count_private=true" />
 
 *****
 
