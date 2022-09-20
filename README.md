@@ -21,7 +21,7 @@
  </summary>
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,7 +47,7 @@
 
 
 
- Last Updated on 19/09/2022 16:04:40 UTC
+ Last Updated on 20/09/2022 16:04:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
