@@ -21,7 +21,7 @@
  </summary>
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,18 +33,8 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1022 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.28 % 
-🌆 Daytime                1289 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.79 % 
-🌃 Evening                1832 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.97 % 
-🌙 Night                  1773 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.97 % 
-```
-
-
-
- Last Updated on 13/04/2024 16:05:05 UTC
+ Last Updated on 14/04/2024 18:18:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
