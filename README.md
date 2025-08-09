@@ -146,7 +146,7 @@
   <b>CONNECT WITH ME</b>
   
   <p align="center">
-    <a href="https://www.jdesignera.net">
+    <a href="https://www.jdesignera.com">
      <img height="20px" alt="Website" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/globe-asia-duotone.svg" />
     </a>
     <a href="https://discordapp.com/users/156834654140235776">
@@ -167,6 +167,6 @@
 </p>
 </p>
 
-<a href="https://jdesignera.net">
+<a href="https://jdesignera.com">
   <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/8715c7f5a24b68e00b1da0a69ae2f450ad671e2f/assets/footers/bottom_wave_logo_footer_v2.png" />
 </a>
