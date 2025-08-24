@@ -1,4 +1,4 @@
-[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header-v2.png)](https://jdesignera.com)
+[![JDesign](https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/headers/intro-header-v3.png)](https://jdesignera.com)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pronoun-He%20%2F%20Him-0097A7?style=flat-square" />
@@ -11,7 +11,12 @@
   <b>📊 GITHUB STATS (CLICK TO COLLAPSE)</b>
  </summary>
  
- <img height="178px" align="center" alt="Github Stats" title="Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&custom_title=GitHub%20Stats&title_color=88C0D0&text_color=ECEFF4&icon_color=00bcd4&bg_color=25,4C566A,2E3440&show_icons=true&border_radius=8&hide_border=true&count_private=true&include_all_commits=true&count_private=true" />
+<a href="https://github.com/JDesignEra">
+  <img height="175" align="center" alt="Github Stats" title="Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&custom_title=GitHub%20Stats&theme=tokyonight&show_icons=true&border_radius=5&hide_border=true&count_private=true&include_all_commits=true&count_private=true&show_owner=true" />
+</a>
+<a href="https://github.com/JDesignEra">
+  <img height=175 align="center" alt="Github Stats" title="Most Used Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/top-langs?username=JDesignEra&layout=compact&custom_title=Most%20Used%20Languages&theme=tokyonight&border_radius=5&hide_border=true" />
+</a>
 
 *****
 
@@ -41,9 +46,6 @@
 🌃 Evening                1888 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.49 % 
 🌙 Night                  1789 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.84 % 
 ```
-
-
-
  Last Updated on 23/08/2025 16:04:39 UTC
 <!--END_SECTION:waka-->
 </details>
@@ -128,20 +130,6 @@
 
 *****
 
-<details>
- <summary>
-  <b>🎶 NOW PLAYING (CLICK TO EXPAND)</b>
- </summary>
- 
- <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=tgm.joel&redirect=true">
-   <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=tgm.joel&cover_image=true" />
-  </a>
- </p>
-</details>
-
-*****
-
 <p align="center">
   <b>CONNECT WITH ME</b>
   
@@ -168,5 +156,5 @@
 </p>
 
 <a href="https://jdesignera.com">
-  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/8715c7f5a24b68e00b1da0a69ae2f450ad671e2f/assets/footers/bottom_wave_logo_footer_v2.png" />
+  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/footers/bottom_wave_logo_footer_v3.png" />
 </a>
