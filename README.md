@@ -26,7 +26,7 @@
  </summary>
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=JDesignEra)
 
 **🐱 My GitHub Data** 
 
