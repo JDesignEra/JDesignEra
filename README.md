@@ -11,12 +11,14 @@
   <b>📊 GITHUB STATS (CLICK TO COLLAPSE)</b>
  </summary>
  
-<a href="https://github.com/JDesignEra">
-  <img height="175" align="center" alt="Github Stats" title="Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&custom_title=GitHub%20Stats&theme=tokyonight&show_icons=true&border_radius=5&hide_border=true&count_private=true&include_all_commits=true&count_private=true&show_owner=true" />
-</a>
-<a href="https://github.com/JDesignEra">
-  <img height=175 align="center" alt="Github Stats" title="Most Used Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/top-langs?username=JDesignEra&layout=compact&custom_title=Most%20Used%20Languages&theme=tokyonight&border_radius=5&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/JDesignEra">
+    <img height="175" align="center" alt="Github Stats" title="Github Stats" src="https://github-readme-stats.jdesignera.vercel.app/api?username=JDesignEra&custom_title=GitHub%20Stats&theme=tokyonight&show_icons=true&border_radius=5&hide_border=true&count_private=true&include_all_commits=true&count_private=true&show_owner=true" />
+  </a>
+  <a href="https://github.com/JDesignEra">
+    <img height=175 align="center" alt="Github Stats" title="Most Used Languages" src="https://github-readme-stats.jdesignera.vercel.app/api/top-langs?username=JDesignEra&layout=compact&custom_title=Most%20Used%20Languages&theme=tokyonight&border_radius=5&hide_border=true" />
+  </a>
+</p>
 
 *****
 
@@ -135,7 +137,7 @@
 
 *****
 
-<p align="center">
+<div align="center">
   <b>CONNECT WITH ME</b>
   
   <p align="center">
@@ -148,7 +150,7 @@
     <a href="https://www.linkedin.com/in/jdesignera">
       <img height="20px" alt="LinkedIn" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/linkedin-in-brands.svg" />
     </a>
-    <a href="mailto:joel.jdesignera@gmail.com">
+    <a href="mailto:joel@jdesignera.com">
       <img height="20px" alt="Email" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/icons/envelope-duotone.svg" />
     </a>
   </p>
@@ -157,9 +159,17 @@
    <a href="https://www.buymeacoffee.com/JDesignEra">
     <img width="200px" alt="Buy Me A Coffee" src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/buttons/bmc_coffee.gif" />
    </a>
-</p>
-</p>
+  </p>
+  
+  <p align="center">
+    <a href="https://discordapp.com/users/156834654140235776">
+      <img width="300" src="https://discord.c99.nl/widget/theme-2/156834654140235776.png">
+    </a>
+  </p>
+</div>
 
-<a href="https://jdesignera.com">
-  <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/footers/bottom_wave_logo_footer_v3.png" />
-</a>
+<p align="center">
+  <a href="https://jdesignera.com">
+    <img src="https://raw.githubusercontent.com/JDesignEra/JDesignEra/master/assets/footers/bottom_wave_logo_footer_v3.png" />
+  </a>
+</p>
