@@ -30,6 +30,8 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=JDesignEra)
  
  <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 753.6 kB Used in GitHub's Storage 
@@ -42,8 +44,24 @@
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 07/08/2026 16:48:14 UTC
+```text
+🌞 Morning                1022 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.02 % 
+🌆 Daytime                1302 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.69 % 
+🌃 Evening                1890 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.48 % 
+🌙 Night                  1789 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.80 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 08/08/2026 16:26:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
